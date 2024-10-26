@@ -7,7 +7,7 @@
 ╰──────────────────────────────────────────────────────────────╯
 
 ```text
-Software engineer crafting solutions in audio, backend, and machine learning
+Software engineer with experience in audio, backend development, and machine learning.
 ```
 
 ┌─── Current Project ───────────────────────────────────────────┐
@@ -40,7 +40,7 @@ An advanced generative drum sequencer combining sequencing with deep learning:
 ├──────────────────────────────────────────────────────────────┤
   » Data visualization and creative tech solutions
 
-┌─── Technical Skills ────────────────────────────────────────┐
+┌─── Tech Stack ────────────────────────────────────────┐
 
 Audio/DSP        │ Cloud/Backend    │ Frontend     │ ML
 ────────────────│─────────────────│─────────────│──────────────
