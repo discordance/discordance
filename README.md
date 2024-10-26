@@ -10,10 +10,10 @@
 Software engineer crafting stuff in audio using Rust and machine learning
 ```
 
-┌─── Current Project ───────────────────────────────────────────┐
+┌─── Current Project ───────────────────────────────────────────────┐
 
-Leading [GANIC SEQUENCER](https://github.com/discordance)
-An advanced generative drum sequencer combining sequencing with deep learning:
+Leading [GANIC](https://ganic.ronde.tools)
+A generative drum sequencer combining sequencing with deep learning:
 
 └─── Features ─────┐
                    ├── Custom distillated diffusion model (PyTorch)
@@ -24,8 +24,8 @@ An advanced generative drum sequencer combining sequencing with deep learning:
 
 ┌─── Journey ───────────────────────────────────────────────────┐
 
-Started my path as a full-stack developer working on creative data 
-visualization projects. Got hooked on audio programming and 
+Started my path as a full-stack developer working on creative 
+data visualization projects. Got hooked on audio programming and 
 gradually shifted towards DSP and machine learning. Co-founded a 
 cloud recording platform, then dove deep into audio plugin 
 development at Future Audio Workshop.
@@ -36,7 +36,7 @@ I get to merge both worlds using Rust and PyTorch.
 
 ┌─── Technical Skills ────────────────────────────────────────┐
 
-Audio/DSP        │ Cloud/Backend    │ Frontend     │ ML
+Audio/DSP       │ Cloud/Backend   │ Frontend    │ ML
 ────────────────│─────────────────│─────────────│──────────────
 Rust            │ Rust            │ TypeScript  │ PyTorch
 C++ / JUCE      │ Go              │ React       │ NumPy
