@@ -47,7 +47,7 @@ SuperCollider   │ PostgreSQL      │             │
 
 ┌─── Connect ───────────────────────────────────────────────────┐
 
-[![LinkedIn](https://linkedin.com/in/aymericnunge)
-[![GitHub](https://github.com/discordance)
+[LinkedIn](https://linkedin.com/in/aymericnunge)
+[GitHub](https://github.com/discordance)
 </code>
 </pre>
