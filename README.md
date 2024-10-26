@@ -1,6 +1,6 @@
 # Hi, I'm Aymeric Nunge
 
-> Software engineer crafting solutions in audio, backend, and machine learning
+> Software engineer with experience in audio, backend development, and machine learning.
 
 ## Current Project
 
