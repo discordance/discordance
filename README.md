@@ -7,12 +7,12 @@
 ╰──────────────────────────────────────────────────────────────╯
 
 ```text
-Software engineer with experience in audio, backend development, and machine learning.
+Software engineer crafting solutions in audio, backend, and machine learning
 ```
 
 ┌─── Current Project ───────────────────────────────────────────┐
 
-Leading [GANIC](https://ganic.ronde.tools/)
+Leading [GANIC SEQUENCER](https://github.com/discordance)
 An advanced generative drum sequencer combining sequencing with deep learning:
 
 └─── Features ─────┐
@@ -22,25 +22,19 @@ An advanced generative drum sequencer combining sequencing with deep learning:
                    ├── Real-time ONNX integration
                    └── Experimental Rust UI frameworks
 
-┌─── Professional Experience ──────────────────────────────────┐
+┌─── Journey ───────────────────────────────────────────────────┐
 
-│ Lead Engineer & Researcher @ GANIC SEQUENCER     2021-Present│
-├──────────────────────────────────────────────────────────────┤
-  » Pushing boundaries in generative music and deep learning
+Started my path as a full-stack developer working on creative data 
+visualization projects. Got hooked on audio programming and 
+gradually shifted towards DSP and machine learning. Co-founded a 
+cloud recording platform, then dove deep into audio plugin 
+development at Future Audio Workshop.
 
-│ Software Engineer @ Future Audio Workshop        2019-Present│
-├──────────────────────────────────────────────────────────────┤
-  » Advanced DSP and deep learning integration for audio plugins
+Now, I'm obsessed with combining traditional audio programming 
+with machine learning. Currently building GANIC SEQUENCER, where 
+I get to merge both worlds using Rust and PyTorch.
 
-│ Co-founder @ Cloub                              2016-2020    │
-├──────────────────────────────────────────────────────────────┤
-  » Built streaming-enabled platform for cloud recording/archiving
-
-│ Full-Stack Lead Engineer @ Bakasable            2013-2020    │
-├──────────────────────────────────────────────────────────────┤
-  » Data visualization and creative tech solutions
-
-┌─── Tech Stack ────────────────────────────────────────┐
+┌─── Technical Skills ────────────────────────────────────────┐
 
 Audio/DSP        │ Cloud/Backend    │ Frontend     │ ML
 ────────────────│─────────────────│─────────────│──────────────
