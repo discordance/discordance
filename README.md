@@ -12,7 +12,7 @@ Software engineer crafting solutions in audio, backend, and machine learning
 
 ┌─── Current Project ───────────────────────────────────────────┐
 
-Leading [GANIC SEQUENCER](https://github.com/discordance)
+Leading [GANIC](https://ganic.ronde.tools/)
 An advanced generative drum sequencer combining sequencing with deep learning:
 
 └─── Features ─────┐
