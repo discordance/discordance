@@ -7,7 +7,7 @@
 ╰──────────────────────────────────────────────────────────────╯
 
 ```text
-Software engineer crafting stuff in audio using Rust and machine learning
+Software engineer crafting stuff in audio using Rust, C++ and a bit of machine learning
 ```
 
 ┌─── Current Project ───────────────────────────────────────────────┐
