@@ -31,7 +31,7 @@ cloud recording platform, then dove deep into audio plugin
 development at Future Audio Workshop.
 
 Now, I'm obsessed with combining traditional audio programming 
-with machine learning. Currently building GANIC SEQUENCER, where 
+with machine learning. Currently building GANIC, where 
 I get to merge both worlds using Rust and PyTorch.
 
 ┌─── Technical Skills ────────────────────────────────────────┐
